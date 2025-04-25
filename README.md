@@ -1,4 +1,4 @@
-# CALCULATOR-if-elif-
+# CALCULATOR-if-elif
 
 Hello everyone!
 This is my first project, a simple calculator.
