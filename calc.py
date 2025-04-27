@@ -19,4 +19,4 @@ elif operation == "/":
         result = cifr1 / cifr2
         print(f"Результат деления: {result}")
     else:
-        print("Делить на 0 нельзя!")
+        print("Делить на 0 нельзя!") 
