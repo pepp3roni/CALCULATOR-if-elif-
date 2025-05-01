@@ -20,5 +20,5 @@ elif operation == "/":
         print(f"Результат деления: {result}")
     else:
         print("Делить на 0 нельзя!") 
- 
+  
  
